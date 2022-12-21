@@ -1,0 +1,3 @@
+/mnt/c/Users/nabee/OneDrive/Desktop/datastructures/assignment-2-don-t-be-sentimental-nabeelakhan17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nabee/OneDrive/Desktop/datastructures/assignment-2-don-t-be-sentimental-nabeelakhan17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nabee/OneDrive/Desktop/datastructures/assignment-2-don-t-be-sentimental-nabeelakhan17/cmake-build-debug/CMakeFiles/sentiment.dir
